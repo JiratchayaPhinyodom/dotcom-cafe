@@ -33,7 +33,8 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
+**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.  
+`**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่เป็นคนรับผิดชอบ)`
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
