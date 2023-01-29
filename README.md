@@ -2,9 +2,11 @@
 
 Section1 | Section2 | Section3 | ...
 
-**TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
-You learned the Markdown to do this in the `git-commands` assignments.    
+**TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.  
 **TODO**: Remove all the TODO lines, of course.
+
+Here is how to hyperlinks to each section.  
+[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
 
