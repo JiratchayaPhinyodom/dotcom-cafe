@@ -1,11 +1,14 @@
-# KU Cafe
+# DotCom Cafe
 
 Section1 | Section2 | Section3 | ...
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.  
-**TODO**: Remove all the TODO lines, of course.
+`**TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ที่ใช้ประโยชน์อะไรไม่ได้ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**`  
+**TODO**: Remove all the TODO lines, of course.  
+`**TODO**: และอย่าขี้เกียจที่จะลบ TODO lines ทั้งหมดออกด้วย ของมันแน่อยู่แล้วว่าจะเก็บ TODO ไว้ทำมั้ย`  
 
 Here is how to hyperlinks to each section.  
+`นี้คือวิธีตัวอย่างของวิธีการที่จะ hyperlinks ไปในแต่ละส่วนที่เราได้ทำการ mark heading ไว้`  
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
