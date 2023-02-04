@@ -18,6 +18,14 @@
 
 
 ## Night Food
+| Item      | Price |
+|:----------- | ----------- |
+| Steak      | 150       |
+| Salad   | 99        |
+| Pizza   | 399        |
+| Burgur   | 120        |
+| Kimchi   | 69        |
+
 
 
 ## Beverages
