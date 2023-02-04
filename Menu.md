@@ -11,7 +11,14 @@
 | Waffles            | 60    |
 | Salad            | 40    |
 
-## Lunch 
+## Lunch
+ | Item | Price |
+ |----------|----------|
+ | Cheese Sandwich | 30 |
+ | Fresh Fruit | 15 |
+ | Salad | 25 |
+ | Fresh milk | 30 |
+ | Fresh water | 10 | 
 
 
 ## Dinner
