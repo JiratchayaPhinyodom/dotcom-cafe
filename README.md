@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Jinnapith Theerachaipaisarn | Dinner | belleqss |
+| Jinnapith Theerachaipaisarn | Dinner | [@belleqss](https://github.com/beatbee) |
 
