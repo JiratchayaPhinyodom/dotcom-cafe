@@ -25,7 +25,7 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Chamarak Gajaseni | Your menu | [@ChamarakGajaseni](https://github.com/ChamarakGajaseni) |
+| Chamarak Gajaseni | Drive Thru | [@ChamarakGajaseni](https://github.com/ChamarakGajaseni) |
 | Jiratchaya Phinyodom | Breakfast | [@JiratchayaPhinyodom](https://github.com/JiratchayaPhinyodom) |
 | Anawat Moonmanee | Night Food | [@Nhuengzii](https://github.com/Nhuengzii) |
 | Naphatson Phuangmanee | Beverages | [@Naphatsonlnwza](https://github.com/Naphatsonlnwza) |
