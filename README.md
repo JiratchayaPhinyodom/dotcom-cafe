@@ -25,9 +25,9 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Chamarak Gajaseni | Your menu | ChamarakGajaseni |
+| Chamarak Gajaseni | Your menu | [@ChamarakGajaseni](https://github.com/ChamarakGajaseni) |
 | Jiratchaya Phinyodom | Breakfast | [@JiratchayaPhinyodom](https://github.com/JiratchayaPhinyodom) |
 | Anawat Moonmanee | Night Food | [@Nhuengzii](https://github.com/Nhuengzii) |
-| Naphatson Phuangmanee | Beverages | @Naphatsonlnwza(https://github.com/Naphatsonlnwza) |
-| Jinnapith Theerachaipaisarn | Dinner | @belleqss(https://github.com/beatbee)
-| Ratchanon Thaweepongsatorn| DotCom Cafe | @RatchanonWeb(https://github.com/RatchanonWeb)|
+| Naphatson Phuangmanee | Beverages | [@Naphatsonlnwza](https://github.com/Naphatsonlnwza) |
+| Jinnapith Theerachaipaisarn | Dinner | [@belleqss](https://github.com/beatbee)
+| Ratchanon Thaweepongsatorn| DotCom Cafe | [@RatchanonWeb](https://github.com/RatchanonWeb)|
