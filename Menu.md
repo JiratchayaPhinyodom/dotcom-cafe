@@ -29,8 +29,13 @@
 
 
 ## Beverages
-
-
+| Item | Price |
+|----------|----------|
+| Apple Juice | 50 |
+| Hot Chocolate | 70 |
+| Latte | 60 |
+| Soft Drink | 20 |
+| Water | 7 |
 
 ---
 
