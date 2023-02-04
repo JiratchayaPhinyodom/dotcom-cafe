@@ -9,11 +9,13 @@
 
 นี้คือวิธีตัวอย่างของการใส่ข้อมูลในรูปแบบของตารางโดยใช้ Markdown  
 
-| Column 1                 | Column 2 |
+| Item                 | Price |
 |:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+| Orange  Juice |20|
+| Fried Chicken| 35|
+| Pepsi|25|
+| Coke|25|
+| Borgar | 50|
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
@@ -23,5 +25,7 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Chamarak Gajaseni | Your menu | ChamarakGajaseni |
 | Jiratchaya Phinyodom | Breakfast | [@JiratchayaPhinyodom](https://github.com/JiratchayaPhinyodom) |
-
+| Anawat Moonmanee | Night Food | [@Nhuengzii](https://github.com/Nhuengzii) |
+| Naphatson Phuangmanee | Beverages | @Naphatsonlnwza(https://github.com/Naphatsonlnwza) |
