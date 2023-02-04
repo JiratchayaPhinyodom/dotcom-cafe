@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Jinnapith Theerachaipaisarn | Dinner | @your_github_id |
+| Jinnapith Theerachaipaisarn | Dinner | belleqss |
 
