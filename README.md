@@ -37,3 +37,4 @@ Section1 | Section2 | Section3 | ...
 | Anawat Moonmanee | Night Food | [@Nhuengzii](https://github.com/Nhuengzii) |
 | Naphatson Phuangmanee | Beverages | [@Naphatsonlnwza](https://github.com/Naphatson-Phuangmanee) |
 | Jinnapith Theerachaipaisarn | Dinner | [@belleqss](https://github.com/beatbee) |
+| Chawonvit Chomvorawong | Lunch | [@Prize2003](https://github.com/Prize2003) |
