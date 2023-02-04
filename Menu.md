@@ -15,6 +15,14 @@
 
 
 ## Dinner
+| Item | price |
+|---------|------------|
+|spaghetti| 75 |
+| salmon salad | 200|
+| tomyumkung | 140|
+| Burritos | 250|
+| Steak | 300|
+
 
 
 ## Night Food
